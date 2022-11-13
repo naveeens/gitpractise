@@ -3,6 +3,7 @@ ls *list files and folders*
 cd *change directory*
 pwd *shows present working directory*
 touch *create a file*
+ln *create soft and hard links*
 less, more, cat *display the contents of a file*
 cp *copy file*
 mv *move file. can also be used to rename file*
@@ -23,6 +24,10 @@ echo *echoes back string*
 >>, >, | *redirection operators*
 source *uses given file as a source of commands*
 tail *displays last part of file*
+apt-get *package management utility*
+date *displays todate and time*
+cal *cur month calendar*
+
 
 ## environmental and its variables
 env *display environment, or used to run program with modified env*
@@ -35,6 +40,7 @@ export *sets val of an env variable*
 man *man pages*
 tldr *too long didnt read*
 
+
 ## network
 curl *transfers data from or to a server*
 dir *display files in cur directory of a remote comp*
@@ -42,5 +48,17 @@ put, get *upload and download file to/from a remote comp*
 quit *logout*
 ping *ping hostname*
 
+
 ## file permissions
+
+
+## process management
+
+
+## file and directory compression
+
+
+## user management
+
+
 
