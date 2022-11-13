@@ -1,12 +1,12 @@
-git config *to add user name and email of the owner of repo*
-git init *to initialize a git repository*
-git status *to list status of current files in the repo. i.e, staged, unstaged, and untracked files*
-git add *to add all the unstaged changes for the next commit*
-git commit *to save a snapshot of all the staged changes*
-git log *shows a log of commits*
-git diff *difference between*
-git reset *resets working, staging and commits trees depending on the args*
-git restore *unstage or even restore working tree to last commit*
-git rm *removes file from staging and working tree*
-git revert *inverses changes and adds it as new commit*
-
+- git config *to add user name and email of the owner of repo*
+- git init *to initialize a git repository*
+- git status *to list status of current files in the repo. i.e, staged, unstaged, and untracked files*
+- git add *to add all the unstaged changes for the next commit*
+- git commit *to save a snapshot of all the staged changes*
+- git log *shows a log of commits*
+- git diff *difference between*
+- git reset *resets working, staging and commits trees depending on the args*
+- git restore *unstage or even restore working tree to last commit*
+- git rm *removes file from staging and working tree*
+- git revert *inverses changes and adds it as new commit*
+- 
