@@ -9,9 +9,9 @@
 - git status *to list status of current files in the repo. i.e, staged, unstaged, and untracked files*
 - git add *to add the unstaged changes for the next commit*
 - git rm *removes file from staging and working tree*
-- git add -am "commit message"
 - git stash [-u, --all] *save staged and unstaged changes to stash for later use*
 - git stash pop, apply and drop
+- git commit -am "commit message"
 - git commit *to save a snapshot of all the staged changes*
 - git commit --amend -m "new commit message"
 - git log *shows a log of commits*
